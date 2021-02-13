@@ -26,7 +26,7 @@
     
 ## Questions
 [GitHub Repo Link](https://github.com/njleoni/budget_tracker)<br/>
-[Heroku Link](https://powerful-spire-65295.herokuapp.com/)
+[Heroku Link](https://aqueous-peak-25025.herokuapp.com/)
 #### If you have any additional questions, please contact me at nicholas.leoni@gmail.com
 
 ## Screenshot
